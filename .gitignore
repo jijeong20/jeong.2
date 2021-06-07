@@ -1,0 +1,5 @@
+*.pyc
+*~
+/venv
+__pacache__
+db.sqlite3
